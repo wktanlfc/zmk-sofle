@@ -84,7 +84,7 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp trans        &kp trans       &kp trans        &kp trans        &kp trans          &mmv MOVE_UP     &kp trans        &kp trans        &kp trans   &kp trans  &kp trans &trans
+&kp GRAVE   &trans        &trans          &trans           &trans           &trans             &mmv MOVE_UP     &trans          &trans            &trans            &trans   &trans    &trans
 &trans      &trans        &mkp LCLK       &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp SEMI        &kp LEFT_BRACKET  &kp RIGHT_BRACKET &kp BSLH &kp EQUAL &kp ENTER
 &trans      &trans       &trans          &trans           &trans           &mkp MB5           &mmv MOVE_LEFT   &kp PG_DN        &kp LEFT         &kp DOWN    &kp RIGHT  &kp SEMI  &kp APOS
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &trans  &trans    &trans   &trans
